@@ -1,3 +1,8 @@
 h1{
     background-color: blue;
+    p{
+        text-decoration: dashed;
+        color:rgb(rgba255, 0, 0, 0.756);
+        text-shadow: darkviolet;
+    }
 }
